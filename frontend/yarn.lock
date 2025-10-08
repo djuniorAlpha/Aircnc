@@ -1971,7 +1971,7 @@ adjust-sourcemap-loader@2.0.0:
   dependencies:
     assert "1.4.1"
     camelcase "5.0.0"
-    loader-utils "1.2.3"
+    loader-utils "1.4.2"
     object-path "0.11.4"
     regex-parser "2.2.10"
 
@@ -9169,12 +9169,12 @@ react-dev-utils@^9.1.0:
     immer "1.10.0"
     inquirer "6.5.0"
     is-root "2.1.0"
-    loader-utils "1.2.3"
+    loader-utils "1.4.2"
     open "^6.3.0"
     pkg-up "2.0.0"
     react-error-overlay "^6.0.3"
     recursive-readdir "2.2.2"
-    shell-quote "1.7.2"
+    shell-quote "1.7.3"
     sockjs-client "1.4.0"
     strip-ansi "5.2.0"
     text-table "0.2.0"
@@ -9603,7 +9603,7 @@ resolve-url-loader@3.1.0:
     compose-function "3.0.3"
     convert-source-map "1.6.0"
     es6-iterator "2.0.3"
-    loader-utils "1.2.3"
+    loader-utils "1.4.2"
     postcss "7.0.14"
     rework "1.0.1"
     rework-visit "1.0.0"
@@ -10028,11 +10028,6 @@ shebang-regex@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-1.0.0.tgz#da42f49740c0b42db2ca9728571cb190c98efea3"
   integrity sha512-wpoSFAxys6b2a2wHZ1XpDSgD7N9iVjg29Ph9uV/uaP9Ex/KXlkTZTeddxDPSYQpgvzKLGJke2UU0AzoGCjNIvQ==
-
-shell-quote@1.7.2:
-  version "1.7.2"
-  resolved "https://registry.yarnpkg.com/shell-quote/-/shell-quote-1.7.2.tgz#67a7d02c76c9da24f99d20808fcaded0e0e04be2"
-  integrity sha512-mRz/m/JVscCrkMyPqHc/bczi3OQHkLTqXHEFu0zDhK/qfv3UcOA4SVmRCLmos4bhjr9ekVQubj/R7waKapmiQg==
 
 shell-quote@1.7.3:
   version "1.7.3"
