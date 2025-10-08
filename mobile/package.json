@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "minimist": "0.2.4"
+    "minimist": "1.2.8"
   }
 }
